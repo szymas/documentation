@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-Plans are the central of the system. That's what you sell to your customers. You setup subscription plans, then customers browse your site, see these plans and subscribe to the plan he wants, process payment... to become an active subscriber in the system.
+Plans are the central of the system. That's what you sell to your customers. You setup subscription plans, then customers browse your site, see these plans and subscribe to the plan he/she wants, process payment... to become an active subscriber in the system.
 
 Base on the **price** of subscription plans, Membership Pro supports the following subscription plans type
 
